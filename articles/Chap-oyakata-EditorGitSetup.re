@@ -22,27 +22,24 @@
 本書をはじめ、OneStop本シリーズは、実は公開のリポジトリでやっています。リポジトリを見ることで得られるものもあるでしょう。本書においては、Githubの無料かつPublicリポジトリを使う前提で話を進めます。
 
 === GitのOrganizationを作る
+
 プロジェクトが決まったら、まずOrganizationを作りましょう。先述のようにPublicなOrganizationであれば無料で使用できます。
 
 自分ひとりのリポジトリでやってもいいのですが、
 
 左上から、New Organizationを選択します。
 
-//image[01_NewOrganization][Organizationの新規作成]{
-//}
+//image[01_NewOrganization][Organizationの新規作成]
 
 Organizationの名前と、メールアドレスを入力して、最上段のFreeを選択します。すでに使われている名前だと、エラーが出ます。
 
-//image[02_SetupNewOrganization][Organization設定入力]{
-//}
+//image[02_SetupNewOrganization][Organization設定入力]
 
 新しいOrganizationができたら、メンバーを招待しますが、アテがなければとりあえず次に進みます。アンケートもスキップしてよいです。答えてもよいですが。
 
-//image[04_SkipInvitation][Invitationはとりあえずスキップ]{
-//}
+//image[04_SkipInvitation][Invitationはとりあえずスキップ]
 
-//image[03_NewOrganizationDone][Organizationができた]{
-//}
+//image[03_NewOrganizationDone][Organizationができた]
 
 自分がPeopleに入っています。新しい人を入れる場合は、Invite Someoneから追加できます。
 
@@ -68,7 +65,6 @@ PDFは自動で、参加者全員が同じ環境で作ったpdfが確認でき�
 
 WerckerCIを前提に話を進めます。
 
-https://app.wercker.com/
 にアクセスし、IDを作りましょう。GitIDでも連携IDを作れるので、それで十分でしょう。
 
 次に、左上のAdd applicationをクリックします。Create new Applicationというページに遷移しますので、上段のプルダウンから自分のIDを選び、下はGitHubを選び、次に行きます。
