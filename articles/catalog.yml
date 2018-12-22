@@ -6,6 +6,9 @@ CHAPS:
   # 各自書きたい内容とファイル名を追加していく
   - chap-sample.re
 
+  # Gitの設定の章
+  - Chap-oyakata-EditorGitSetup.re
+
 APPENDIX:
 
 POSTDEF:
