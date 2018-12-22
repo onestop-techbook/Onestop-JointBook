@@ -29,19 +29,7 @@
 
 左上から、New Organizationを選択します。
 
-//image[01_NewOrganization][Organizationの新規作成]
 
-Organizationの名前と、メールアドレスを入力して、最上段のFreeを選択します。すでに使われている名前だと、エラーが出ます。
-
-//image[02_SetupNewOrganization][Organization設定入力]
-
-新しいOrganizationができたら、メンバーを招待しますが、アテがなければとりあえず次に進みます。アンケートもスキップしてよいです。答えてもよいですが。
-
-//image[04_SkipInvitation][Invitationはとりあえずスキップ]
-
-//image[03_NewOrganizationDone][Organizationができた]
-
-自分がPeopleに入っています。新しい人を入れる場合は、Invite Someoneから追加できます。
 
 === リポジトリの初期設定をする
 
