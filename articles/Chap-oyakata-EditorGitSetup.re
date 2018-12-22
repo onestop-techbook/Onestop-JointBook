@@ -28,17 +28,21 @@
 
 左上から、New Organizationを選択します。
 
-//image[01_NewOrganization][Organizationの新規作成]
+//image[01_NewOrganization][Organizationの新規作成]{
+//}
 
 Organizationの名前と、メールアドレスを入力して、最上段のFreeを選択します。すでに使われている名前だと、エラーが出ます。
 
-//image[02_SetupNewOrganization][Organization設定入力]
+//image[02_SetupNewOrganization][Organization設定入力]{
+//}
 
 新しいOrganizationができたら、メンバーを招待しますが、アテがなければとりあえず次に進みます。アンケートもスキップしてよいです。答えてもよいですが。
 
-//image[04_SkipInvitation][Invitationはとりあえずスキップ]
+//image[04_SkipInvitation][Invitationはとりあえずスキップ]{
+//}
 
-//image[03_NewOrganizationDone][Organizationができた]
+//image[03_NewOrganizationDone][Organizationができた]{
+//}
 
 自分がPeopleに入っています。新しい人を入れる場合は、Invite Someoneから追加できます。
 
@@ -77,5 +81,7 @@ SSHの設定は、Recommended for public projectsとあるので、上のSSHア�
 
 これで、CIの設定が終わりました。トップ画面が出ましたよね？設定ファイルの中に、Wercker.ymlがあり、リポジトリが更新されるとアプリが走り、PDFが生成されます。
 
-一度何かのファイルをPushするなり、更新するなりして、CIのてすとをしておきましょう。
+一度何かのファイルをPushするなり、更新するなりして、CIのてすとをしておきましょう。CIが走り始め、1分ほどでpdfが生成されるはずです。試行錯誤の段階ではその時間は多少ストレスになりますが、執筆者全員が同じ環境で出力されたpdfを随時確認できるというメリットは大きいです。ローカル環境設定などに煩わされることもないですしね。
+
+
 
