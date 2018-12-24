@@ -16,6 +16,8 @@ CHAPS:
   # 打ち上げをしよう
   # 商業化するときにどうするか
 
+  # Gitの設定の章
+  - Chap-oyakata-EditorGitSetup.re
 
 APPENDIX:
 
