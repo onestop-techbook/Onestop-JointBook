@@ -72,11 +72,12 @@ Issue立ててください。
 [Re:VIEWチートシート](https://gist.github.com/erukiti/c4e3189dda179a0f0b73299fb5787838) を作ってみたので、参考にしてみてください。
 
 ## CI
-https://app.wercker.com/oyakata2438/Onestop-meeting/runs
-でPDFが書きだされます。（ちょっと後で更新します）
+https://app.wercker.com/oyakata2438/Onestop-JointBook/runs
+でPDFが書きだされます。
 一番上のBuildをクリックすると展開されるので、
 Output Artifactをクリックして、Download artifactをクリックすると、
 tarで固めたpdfがダウンロードできます。
+ここでエラーが出ないように直してもらえると、編集長が助かります。
 
 ## インストール
 
@@ -104,6 +105,8 @@ cd articles ; review pdfmaker config.yml
 ### 権利
 
 ベースには、[TechBooster/ReVIEW\-Template: TechBoosterで利用しているRe:VIEWのテンプレート（B5/A5/電子書籍）](https://github.com/TechBooster/ReVIEW-Template) を使っています。
+
+また、親方主催の合同誌用にスタイルをいじっています。
 
   * 設定ファイル、テンプレートなど制作環境（techbooster-doujin.styなど）はMITライセンスです
     * 再配布などMITライセンスで定める範囲で権利者表記をおねがいします
