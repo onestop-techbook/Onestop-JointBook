@@ -22,6 +22,8 @@ CHAPS:
 
   # Gitの設定の章
   - Chap-oyakata-EditorGitSetup.re
+  # hayashi追加　技術書典に社内部活動で参加する
+  - chap-hayashi.re
 
 APPENDIX:
   # こんな合同誌作りました。でどうだった？（体験談的に
