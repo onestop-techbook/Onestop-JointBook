@@ -19,6 +19,20 @@
 
 == 発起人/編集
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/i-kZmS-f_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        親方 @oyakata2438 https://twitter.com/oyakata2438\\
+        サークル名：親方Project
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+普段は「レーザープロジェクタを自作するためのいろいろ」というあたりのネタで執筆中。コミケと技術書典に出没。デッドライナーだけど、最近締め切りをでっち上げて自分の尻を叩く方法を学んだので、コンスタントに本が書けるようになった。プログラミングは苦手。しめきりたのしー。ワンストップ本1こと、技術同人誌を書こうが商業化したり、錬金ラボをみんなで作ったり、楽しすぎる毎日です。
+
 
 == 執筆者
 //embed{
@@ -116,18 +130,6 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 
 　
 
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/i-kZmS-f_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        親方 @oyakata2438 https://twitter.com/oyakata2438\\
-        サークル名：親方Project
-        \end{minipage}
-    \hspace{1ex}
-//}
-普段は「レーザープロジェクタを自作するためのいろいろ」というあたりのネタで執筆中。コミケと技術書典に出没。デッドライナーだけど、最近締め切りをでっち上げて自分の尻を叩く方法を学んだので、コンスタントに本が書けるようになった。プログラミングは苦手。しめきりたのしー。ワンストップ本1こと、技術同人誌を書こうが商業化したり、錬金ラボをみんなで作ったり、楽しすぎる毎日です。
 
 == 表紙イラスト担当
 
