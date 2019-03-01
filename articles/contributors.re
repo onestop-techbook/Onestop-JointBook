@@ -131,6 +131,23 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 　
 
 
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/rubys8arks_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        かしい @rubys8arks https://twitter.com/rubys8arks\\
+        サークル名：＃IndieCoderJP
+        \end{minipage}
+    \hspace{1ex}
+//}
+フリーの駆け出しWEBエンジニア。お笑いライブの検索サイト「ワラリー！」を運営中。もともとは外資のITコンサル会社(SI)で業務システムの設計を担当。独学でRuby on Rails、JavaScriptなどを勉強してフリーランスに。「個人開発がやりたくなる本」という合同誌を発行しました。技術ブログでは初心者向けの情報を発信中。
+
+　
+
 == 表紙イラスト担当
 
 
