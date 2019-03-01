@@ -138,7 +138,7 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         かしい @rubys8arks https://twitter.com/rubys8arks\\
-        サークル名：#IndieCoderJP
+        サークル名：＃IndieCoderJP
         \end{minipage}
     \hspace{1ex}
 //}
