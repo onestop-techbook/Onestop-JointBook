@@ -148,6 +148,22 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 
 　
 
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/zukkey_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        zukkey @zukkey59 https://twitter.com/zukkey59\\
+        サークル名：エウレカ9
+        \end{minipage}
+    \hspace{1ex}
+//}
+ウイスキーと筋肉を愛するAndroidエンジニア。大学在学中に株式会社エウレカにインターンとして誘われ、長期インターンを経て正式に2018年4月に新卒入社。恋愛・婚活マッチングサービス「Pairs」のAndroid版を担当。「Android StudioではじめるARCore入門」の著者。
+
 == 表紙イラスト担当
 
 
