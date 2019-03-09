@@ -178,6 +178,20 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 //}
 C++でのソシャゲ開発からRuby on Railsのサーバサイド、AWS Lambdaによるサーバレスまでなんでも手を出すタイプ。締め切りのことを考えずに動く締め切り駆動タイプなのでだいたい締め切りに追われてる。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hyata.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ひゃた @digitaljunky https://twitter.com/digitaljunky\\
+        サークル名： Gravity Pianist
+        \end{minipage}
+    \hspace{1ex} 
+//}
+Androidエンジニア……のはずなのに、サーバーレスアーキテクチャが大好きな人。バックエンド(Java, Node.js, AWS, Dockerなど)もフロントエンド(Android, Unity, Flutter, Vue.jsなど)も原稿も言われたら何でもやってしまう。
+
+
 == 表紙イラスト担当
 
 
