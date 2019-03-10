@@ -12,6 +12,7 @@ CHAPS:
   # 募集の方法
   - chap-bosyu.re
   # 編集長の心得（トラブル例と回避方法とかも）
+  - chap-kokoroe.re
   # 環境設定（Gitとかリポジトリとか）執筆者側？
   # 合同誌を支える技術
   - chap-tech-setup.re
