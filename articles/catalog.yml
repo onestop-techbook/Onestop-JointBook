@@ -40,9 +40,10 @@ CHAPS:
   - chap_gather_article.re
  
 APPENDIX:
-  # こんな合同誌作りました。でどうだった？（体験談的に
+  # 参加した
   - chap-appendix-killinsun.re
   - chap-appendix-mzryuka.re
+  - appendix-kobara.re
   - chap-appendix-ichitaro3.re
 
 POSTDEF:
