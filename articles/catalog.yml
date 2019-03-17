@@ -21,6 +21,10 @@ CHAPS:
   - chap-schedule.re
   # 権利やお金周りに関して
   - chap-money.re
+
+  # 肉肉野菜とかノールックマージについて
+  - chap-niku.re
+
   # 打ち上げをしよう
   # 商業化するときにどうするか
 
@@ -31,8 +35,7 @@ CHAPS:
   # 技術書典に合同誌と分冊で出してみて
   - chap-zukkey.re
   - chap_gather_article.re
-  - chap-niku.re
-
+ 
 APPENDIX:
   # こんな合同誌作りました。でどうだった？（体験談的に
 
