@@ -15,7 +15,7 @@ CHAPS:
   - chap_kokoroe.re
   # 環境設定（Gitとかリポジトリとか）執筆者側？
   # 合同誌を支える技術
-  - chap-tech-setup.re
+  # - chap-tech-setup.re
 
   # スケジュールとバッファ
   - chap-schedule.re
