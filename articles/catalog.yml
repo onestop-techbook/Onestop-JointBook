@@ -25,6 +25,9 @@ CHAPS:
   # 肉肉野菜とかノールックマージについて
   - chap-niku.re
 
+  # 担当章と中身について
+  - chap-topics.re
+
   # 打ち上げをしよう
   # 商業化するときにどうするか
 
@@ -38,6 +41,8 @@ CHAPS:
  
 APPENDIX:
   # こんな合同誌作りました。でどうだった？（体験談的に
+  - chap-appendix-killinsun.re
+  - chap-appendix-mzryuka.re
 
 POSTDEF:
   # あとがき
