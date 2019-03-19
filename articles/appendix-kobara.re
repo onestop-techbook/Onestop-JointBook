@@ -1,7 +1,7 @@
-﻿= 合同誌寄稿体験@kobarasukimaro
+﻿= 合同誌寄稿体験 ｺﾊﾞﾗｽｷﾏﾛ@kobarasukimaro
 
 ==== 自己紹介
-初めまして。@kobarasukimaro です。
+初めまして。ｺﾊﾞﾗｽｷﾏﾛ@kobarasukimaro です。
 とある小さな企業（40名弱）でソフトウェアエンジニアをやってます。
 フロント〜インフラまで広く浅くやる感じのいわゆる「何でも屋」に近い感じです。
 使える言語はJava、PHP、Python、JS、Swift などです。
