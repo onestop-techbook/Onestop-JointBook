@@ -114,6 +114,8 @@ growthfactionやengineers_ltでは、広報担当としてコミュニティの�
 //}
 C++でのソシャゲ開発からRuby on Railsのサーバサイド、AWS Lambdaによるサーバレスまでなんでも手を出すタイプ。締め切りのことを考えずに動く締め切り駆動タイプなのでだいたい締め切りに追われてる。
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
