@@ -38,6 +38,9 @@ CHAPS:
   # 技術書典に合同誌と分冊で出してみて
   - chap-zukkey.re
   - chap_gather_article.re
+
+  # 合同誌だしたよ
+  - chap-ariaki.re
  
 APPENDIX:
   # 参加した
