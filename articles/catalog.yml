@@ -5,7 +5,7 @@ PREDEF:
 CHAPS:
   # 各自書きたい内容とファイル名を追加していく
 
-
+  - chap-intro.re
   # 合同誌のメリット（主催者観点）
   - chap-oyakata-intro.re
   # 合同誌のメリット（執筆者観点）
@@ -38,6 +38,9 @@ CHAPS:
   # 技術書典に合同誌と分冊で出してみて
   - chap-zukkey.re
   - chap_gather_article.re
+
+  # 合同誌だしたよ
+  - chap-ariaki.re
  
 APPENDIX:
   # 参加した
@@ -46,6 +49,8 @@ APPENDIX:
   - appendix-kobara.re
   - chap-appendix-ichitaro3.re
   - chap-appendix-himarin269.re
+  - chap-appendix-rubys8arks.re
+  - appendix-mikodayo.re
 
 POSTDEF:
   # あとがき
