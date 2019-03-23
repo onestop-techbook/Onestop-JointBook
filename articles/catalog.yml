@@ -33,6 +33,8 @@ CHAPS:
 
   # Gitの設定の章
   - Chap-oyakata-EditorGitSetup.re
+  # 著者側の設定
+  - chap-setupforauther.re
   # hayashi追加　技術書典に社内部活動で参加する
   - chap-hayashi.re
   # 技術書典に合同誌と分冊で出してみて
